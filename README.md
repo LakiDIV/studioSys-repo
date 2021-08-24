@@ -6,8 +6,7 @@ This application is developed for first year mid tearm exam of my university
 
 - [x] Log In
 - [ ] Sign Up
-- [] Admin can change prices
-- [] Guest account not getting discounts
-  
+- [ ] Admin can change prices
+- [ ] Guest account not getting discounts
 **Extra Steps**
-- [] Coupen codes
+- [ ] Coupen codes
