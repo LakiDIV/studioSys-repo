@@ -8,5 +8,5 @@ This application is developed for first year mid tearm exam of my university
 - [ ] Sign Up
 - [ ] Admin can change prices
 - [ ] Guest account not getting discounts
-**Extra Steps**
+- **Extra Steps**
 - [ ] Coupen codes
