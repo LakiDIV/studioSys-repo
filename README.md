@@ -2,7 +2,7 @@
 
 This application is developed for first year mid tearm exam of my university
 
-To do
+## To do
 - [] Sign Up
 - [x] Log In
 - [] Admin can change prices
