@@ -3,8 +3,9 @@
 This application is developed for first year mid tearm exam of my university
 
 ## To do
-- [] Sign Up
+
 - [x] Log In
+- [ ] Sign Up
 - [] Admin can change prices
 - [] Guest account not getting discounts
   
